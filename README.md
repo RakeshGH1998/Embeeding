@@ -1,5 +1,13 @@
 # Embeeding
 
+__Note__
+
+https://drive.google.com/file/d/1E_eup7GM3wU23hYMRFbaj8biq4_91rFR/view?usp=drive_linkhttps://drive.google.com/file/d/1E_eup7GM3wU23hYMRFbaj8biq4_91rFR/view?usp=drive_link
+
+Above is the link of the dataset so please download this file and place this in project folder (in WEB-INF place the downloaded file)
+this file is important because using this only i am converting text into vector data.
+
+
 __Overview__
 
 GloveVectorServlet1 is a Java servlet that reads GloVe word embeddings and stores vector data for words found in user-provided text into a Supabase database. This project demonstrates how to load pre-trained GloVe vectors, process text input from a client, and insert relevant word vectors into a database using a RESTful API.
